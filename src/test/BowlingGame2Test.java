@@ -1,4 +1,3 @@
-import java.beans.Transient;
 
 public class BowlingGame2Test {
 
